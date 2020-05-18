@@ -1,0 +1,39 @@
+body{
+    background-color:#2874F0;
+}
+.table{
+    text-align: center;
+    background-color: #2874F0;
+   
+}
+#user{
+    width: 20rem;
+    height: 2rem;
+    margin-top: 70px;
+    
+}
+#pass{
+    width: 20rem;
+    height: 2rem;
+}
+#log{
+    width: 20rem;
+    height: 2rem;
+    margin-top: 80px;
+    background-color: orangered;
+    border: orangered;
+    border-radius: 10px;
+    color: white;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+    text-decoration: none;
+}
+#sign{
+    color: white;
+    text-decoration: none;
+}
+
